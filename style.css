@@ -15,7 +15,7 @@
     font-size: 4.5rem;
 }
 .hero_desc {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 .hero-text {
     text-align: center;
@@ -24,6 +24,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    /* text-shadow: 0.02em 0.02em 0.02em gray */
+    
 }
 
 /* spacing on all sections */
@@ -64,7 +66,7 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-github:hover,.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover, .fa-email:hover {
     color: #008000;
 }
 .fab {
